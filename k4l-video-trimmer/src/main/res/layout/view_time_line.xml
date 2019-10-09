@@ -84,7 +84,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:background="@drawable/black_button_background"
-                android:text="@string/cancel"
+                android:text="@string/取消"
                 android:textColor="@android:color/white"/>
 
             <View
@@ -100,7 +100,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:background="@drawable/black_button_background"
-                android:text="@string/save"
+                android:text="@string/保存"
                 android:textColor="@android:color/white"/>
 
         </LinearLayout>
